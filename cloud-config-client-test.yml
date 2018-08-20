@@ -4,7 +4,10 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-      
+spring:
+  bus:
+    trace:
+      enabled: true  # 开启消息跟踪
   rabbitmq:
     host: 47.104.222.78
     port: 5672
