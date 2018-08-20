@@ -14,5 +14,9 @@ spring:
     port: 5672
     username: lgh
     password: lgh
+management:
+  endpoints:
+    web:
+      expose: "*"
 env: testerererer
 
