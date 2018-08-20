@@ -18,5 +18,5 @@ management:
   endpoints:
     web:
       expose: "*"
-env: testerererer
+env: testerererer3434343343
 
