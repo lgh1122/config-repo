@@ -9,14 +9,6 @@ spring:
   bus:
     trace:
       enabled: true  # 开启消息跟踪
-  rabbitmq:
-    host: 47.104.222.78
-    port: 5672
-    username: lgh
-    password: lgh
-management:
-  endpoints:
-    web:
-      expose: "*"
-env: testerererer3434343343
+ 
+env: test
 
