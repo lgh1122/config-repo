@@ -10,5 +10,5 @@ spring:
     trace:
       enabled: true  # 开启消息跟踪
  
-env: test
+env: test456
 
