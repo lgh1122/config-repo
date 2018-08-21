@@ -13,6 +13,6 @@ spring:
     port: 5672
     username: lgh
     password: lgh
-env: testzi123
+env: testz
 
 
